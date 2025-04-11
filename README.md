@@ -41,4 +41,4 @@ Automated test framework for [RedBus.in](https://www.redbus.in) implementing **D
    mvn test
 
 ## 🎥 Demo
-![RedBus Automation Demo](docs/assets/demo.gif)
+![RedBus Automation Demo](docs/assets/Input.gif)
