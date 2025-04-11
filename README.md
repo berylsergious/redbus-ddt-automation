@@ -51,4 +51,4 @@ Automation in action
 
 Output.csv file has the buscount fetched from website
 
-![RedBus Automation Demo](docs/assets/Output_0.5_HD_2x)
+![RedBus Automation Demo](docs/assets/Output_0.5_HD_2x.gif)
