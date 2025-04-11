@@ -39,3 +39,6 @@ Automated test framework for [RedBus.in](https://www.redbus.in) implementing **D
    git clone https://github.com/your-username/redbus-ddt-automation.git
    cd redbus-ddt-automation
    mvn test
+
+## 🎥 Demo
+![RedBus Automation Demo](docs/assets/demo.gif)
