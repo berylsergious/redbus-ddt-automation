@@ -15,10 +15,10 @@ Automated test framework for [RedBus.in](https://www.redbus.in) implementing **D
 - **CSV files** (Input test data/output results)  
 
 ##  Key Features  
-✔ **CSV-Driven Test Cases** - Separate test logic from data  
-✔ **Dynamic Test Execution** - Run tests with multiple datasets  
-✔ **Automated Reporting** - TestNG HTML reports + CSV outputs  
-✔ **Page Object Model** - Maintainable UI locators  
+**CSV-Driven Test Cases** - Separate test logic from data  
+**Dynamic Test Execution** - Run tests with multiple datasets  
+**Automated Reporting** - TestNG HTML reports + CSV outputs  
+**Page Object Model** - Maintainable UI locators  
 
 ## ⚙️ Setup  
 1. **Prerequisites**:  
@@ -28,8 +28,7 @@ Automated test framework for [RedBus.in](https://www.redbus.in) implementing **D
 2. **Clone & Run**:  
    ```bash
    git clone https://github.com/berylsergious/redbus-ddt-automation.git
-   cd redbus-ddt-automation
-   mvn test
+
 
 ## 🎥 Demo
 Edit input.csv file to update Date column to future dates
