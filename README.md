@@ -20,15 +20,6 @@ Automated test framework for [RedBus.in](https://www.redbus.in) implementing **D
 ✔ **Automated Reporting** - TestNG HTML reports + CSV outputs  
 ✔ **Page Object Model** - Maintainable UI locators  
 
-## 🛠️ Tech Stack  
-| Component       | Technology |  
-|----------------|------------|  
-| Test Framework | TestNG     |  
-| Browser Automation | Selenium WebDriver |  
-| Language       | Java       |  
-| Build Tool     | Maven |  
-| Data Format    | CSV        |  
-
 ## ⚙️ Setup  
 1. **Prerequisites**:  
    - Java JDK 8+  
