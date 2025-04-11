@@ -36,7 +36,7 @@ Automated test framework for [RedBus.in](https://www.redbus.in) implementing **D
 
 2. **Clone & Run**:  
    ```bash
-   git clone https://github.com/your-username/redbus-ddt-automation.git
+   git clone https://github.com/berylsergious/redbus-ddt-automation.git
    cd redbus-ddt-automation
    mvn test
 
