@@ -43,3 +43,5 @@ Automated test framework for [RedBus.in](https://www.redbus.in) implementing **D
 ## 🎥 Demo
 Edit input.csv file to update Date column to future dates
 ![RedBus Automation Demo](docs/assets/Input.gif)
+Automation in action
+![RedBus Automation Demo](docs/assets/InAction_LowRes.gif)
