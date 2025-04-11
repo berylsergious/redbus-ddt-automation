@@ -34,7 +34,7 @@ Automated test framework for [RedBus.in](https://www.redbus.in) implementing **D
 ## 🎥 Demo
 Edit input.csv file to update Date column to future dates
 
-![RedBus Automation Demo](docs/assets/Input.gif)
+![RedBus Automation Demo](docs/assets/Input.png)
 
 Automation in action
 
@@ -42,4 +42,4 @@ Automation in action
 
 Output.csv file has the buscount fetched from website
 
-![RedBus Automation Demo](docs/assets/Output_0.5_HD_2x.gif)
+![RedBus Automation Demo](docs/assets/Output.png)
