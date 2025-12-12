@@ -1,4 +1,5 @@
 # redbus-ddt-automation
+<div align="center">
 Implements Data Driven Testing using selenium, testng in redbus ticket booking webapplication automation
 
 # RedBus Data-Driven Automation Framework  
